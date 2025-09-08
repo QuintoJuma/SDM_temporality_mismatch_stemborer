@@ -1,7 +1,6 @@
 ############################################################
 # Title: Raster-Based Validation of Species Distribution Models
 # Author: Quinto Juma Meltus
-# Date: YYYY-MM-DD
 # Description:
 #   This script validates predicted presence–absence maps 
 #   of two stemborers (Busseola fusca and Chilo partellus) 
