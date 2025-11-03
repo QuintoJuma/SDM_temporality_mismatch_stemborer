@@ -7,7 +7,7 @@ The analysis investigates how temporal gaps between species occurrence records a
 
 The workflow includes scripts for data preprocessing, full SDM modeling, hypothesis testing, and independent validation using current occurrence datasets.  
 Evaluation of model performance is conducted using standard classification metrics such as True Positives, False Positives, False Negatives, True Negatives, Precision, Recall, F1-score, and Accuracy.  
-All outputs — including raster layers, validation tables, and summary statistics — are structured for transparent and reproducible reporting.
+All outputs; including raster layers, validation tables, and summary statistics, are structured for transparent and reproducible reporting.
 
 ---
 
